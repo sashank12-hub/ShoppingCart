@@ -1,0 +1,39 @@
+.header{padding-top:10px;
+    display: flex;
+    justify-content: space-between;
+   
+   width:100%;
+    box-shadow: rgba(0,0,0,0.24) 0px 3px 8px;
+}
+.cart{
+    color: gray !important;
+   font-size:  40px !important;
+    /* width: 30px;
+    height: 30px; */
+
+}
+.left{
+    display: flex;
+}
+.left img{
+    width:40px;
+    height:50px
+}
+.left h4{
+    display: inline-block;
+    color:skyblue;
+    font-size: 44px;
+    padding-left:10px
+}
+.circle{
+    width:20px;
+    height:20px;
+    border-radius: 10px;
+    color: black;
+    font-size: small;
+    position: relative;
+    right:-31px;
+    top:-21px;
+    
+    background-color:orange !important;
+}
